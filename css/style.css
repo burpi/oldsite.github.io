@@ -1,0 +1,153 @@
+body{
+  padding-top:65px;
+  position: relative;
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    margin-bottom: 0px;
+    border: none;
+}
+
+.navbar-default {
+    background-color: #1f3840;
+    border-color: #e7e7e7;
+    padding: 6px;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #fa9d57;
+    background-color: transparent;
+    border-radius: 5px;
+    border: 2px solid #fa9d57;
+}
+
+.navbar-default .navbar-brand {
+    color: #fa9d57;
+    font-size: 30px;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color:#ea904b;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fa9d57;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+   color:#ea904b;
+   background-color: transparent;
+}
+
+.jumbotron {
+    background-image: url(../img/header1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 675px;
+    max-width: 100%;
+}
+
+.headerstyle{
+    margin-left: 25px;
+    margin-top: 130px;
+    color: white;
+    font-weight: 400;
+    font-size: 45px;
+    border-left: 5px solid #fa9d57;
+}
+
+.headerstyle {
+    margin-left: 25px;
+    margin-top: 130px;
+    color: white;
+    font-weight: 400;
+    font-size: 45px;
+    background: none !important;
+}
+
+
+.intro{
+  margin-bottom: 50px;
+  height: 439px;
+  padding-top: 20px;
+  background-color: white;
+}
+
+.portfolio{
+  padding-bottom: 50px;
+  padding-top:  20px;
+}
+
+#portfolio{
+  background-color: #1f3840;
+}
+
+.title{
+  text-align: center;
+}
+
+.feedback{
+  margin-bottom: 50px;
+  padding-top: 20px;
+}
+
+.contact-form{
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+#contactForm{
+  background-color: #1f3840;
+}
+
+.inhoudt{
+  text-align: center;
+}
+
+.formh{
+  color: white;
+  font-size: 27px;
+  font-weight: 600;
+}
+
+.formp{
+  color: white;
+  font-size: 17px;
+}
+
+.fonth2{
+  color: white;
+}
+
+#style {
+    border-left: 5px solid #fa9d57;
+    background-color: #eee;
+    margin-top: 75px;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.fa {
+    font-size: 35px;
+    margin-right: 10px;
+    margin-top: 25px;
+}
+
+.script{
+  font-family: 'Kaushan Script', cursive;
+  color: #fa9d57;
+}
+.info .pull-left span{
+  display: block;
+}
+
+.feedback-name {
+  margin-top: 35px;
+}
+.skils{
+  display: inline-block;
+}
